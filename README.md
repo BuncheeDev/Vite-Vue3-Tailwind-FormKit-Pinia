@@ -1,5 +1,5 @@
 # Vite Vue3 Tailwind FormKit Pinia
-Vite Vue3 Tailwind FormKit Penia -> Templete
+Vite Vue3 Tailwind FormKit Pinia -> Templete
 
 1. npm i
 2. npm run dev
